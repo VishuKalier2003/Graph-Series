@@ -13,7 +13,7 @@ Subscribe now - [Channel](https://youtube.com/@masterthecodes?si=WupOoWjxtOv2mHW
 
 ## ${\color{lightblue} Graph \space Series \space Table}$
 
-| ***Video No.*** | ***Video Title*** | ***Video Link*** | ***Codes*** | ***Notes*** |
+| ***S. No.*** | ***Video Title*** | ***Video*** | ***Codes*** | ***Notes*** |
 |-|-|-|-|-|
 | ***1.*** | ${\color{lightgreen} What \space is \space Graph ?}$ | [Link](https://youtu.be/aeOrcsndHxI) | [Code](https://github.com/VishuKalier2003/Graph-Series/blob/main/video1.md) | [Notes](https://1drv.ms/b/c/a04cbeb414585193/EdeEYHWDk0pAr49cyBBUXK8BI0vWFlGE-G0usP-5ycAm9g?e=Y9boTX) |
 
