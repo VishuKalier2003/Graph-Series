@@ -3,7 +3,7 @@
 This readme contains the code and the link to the notes created during the video. Before reading through the code, please watch the video on ***youtube*** and read the notes. It will be much beneficial and better that way. I have also created a video for explaining the code as well. Please feel free to access the video to learn how the code actually works.
 
 - ***Youtube video*** - [link](https://youtu.be/aeOrcsndHxI)
-- ***Code explanation video** - [link]()
+- ***Code explanation video** - [link](https://youtu.be/Z5QS2RtnjKo)
 - ***Notes link*** - [notes](https://1drv.ms/b/c/a04cbeb414585193/EdeEYHWDk0pAr49cyBBUXK8BI0vWFlGE-G0usP-5ycAm9g?e=Y9boTX)
 
 Also subscribe to the channel for more such content. Channel link - [MasterTheCodes](https://youtube.com/@masterthecodes?si=fS2NrxPe7BNftfdO)
