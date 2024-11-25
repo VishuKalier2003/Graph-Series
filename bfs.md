@@ -4,7 +4,7 @@ This readme contains the code and the link to the notes created during the video
 
 - ***Youtube video*** - [link](https://youtu.be/aeOrcsndHxI)
 - ***Code explanation video** - [link]()
-- ***Notes link*** - [notes](https://1drv.ms/b/c/a04cbeb414585193/EdeEYHWDk0pAr49cyBBUXK8BI0vWFlGE-G0usP-5ycAm9g?e=Y9boTX)
+- ***Notes link*** - [notes](https://1drv.ms/b/c/a04cbeb414585193/EXJsX1z8_5dLk2M9rLjk2GcBTnenC4F3AbauYSSA-AjLRg?e=99ghAH)
 
 Also subscribe to the channel for more such content. Channel link - [MasterTheCodes](https://youtube.com/@masterthecodes?si=fS2NrxPe7BNftfdO)
 
