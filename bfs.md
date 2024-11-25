@@ -2,7 +2,7 @@
 
 This readme contains the code and the link to the notes created during the video. Before reading through the code, please watch the video on ***youtube*** and read the notes. It will be much beneficial and better that way. I have also created a video for explaining the code as well. Please feel free to access the video to learn how the code actually works.
 
-- ***Youtube video*** - [link](https://youtu.be/aeOrcsndHxI)
+- ***Youtube video*** - [link](https://youtu.be/w7MJsg1n8XE)
 - ***Code explanation video** - [link]()
 - ***Notes link*** - [notes](https://1drv.ms/b/c/a04cbeb414585193/EXJsX1z8_5dLk2M9rLjk2GcBTnenC4F3AbauYSSA-AjLRg?e=99ghAH)
 
