@@ -8,7 +8,7 @@ This readme contains the code and the link to the notes created during the video
 
 Also subscribe to the channel for more such content. Channel link - [MasterTheCodes](https://youtube.com/@masterthecodes?si=fS2NrxPe7BNftfdO)
 
-### ${\color{lightblue} Code \space for \space Creating \space Graph}$
+### ${\color{lightblue} Code \space for \space Breadth \space First \space Search}$
 
 ## Java
 
