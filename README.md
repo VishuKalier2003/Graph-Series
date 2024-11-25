@@ -16,7 +16,7 @@ Subscribe now - [Channel](https://youtube.com/@masterthecodes?si=WupOoWjxtOv2mHW
 | ***S. No.*** | ***Video Title*** | ***Video*** | ***Codes*** | ***Notes*** |
 |-|-|-|-|-|
 | ***1.*** | ${\color{lightgreen} What \space is \space Graph ?}$ | [Link](https://youtu.be/aeOrcsndHxI) | [Code](https://github.com/VishuKalier2003/Graph-Series/blob/main/video1.md) | [Notes](https://1drv.ms/b/c/a04cbeb414585193/EdeEYHWDk0pAr49cyBBUXK8BI0vWFlGE-G0usP-5ycAm9g?e=Y9boTX) |
-| ***2.*** | ${\color{lightgreen} Basic \space Graph \space Operations}$ | [Link](https://youtu.be/aeOrcsndHxI) | [Code](https://github.com/VishuKalier2003/Graph-Series/blob/main/video1.md) | [Notes](https://1drv.ms/b/c/a04cbeb414585193/EdeEYHWDk0pAr49cyBBUXK8BI0vWFlGE-G0usP-5ycAm9g?e=Y9boTX) |
+| ***2.*** | ${\color{lightgreen} Basic \space Graph \space Operations}$ | [Link](https://youtu.be/Z5QS2RtnjKo) | [Code](https://github.com/VishuKalier2003/Graph-Series/blob/main/video1.md) | [Notes](https://1drv.ms/b/c/a04cbeb414585193/EdeEYHWDk0pAr49cyBBUXK8BI0vWFlGE-G0usP-5ycAm9g?e=Y9boTX) |
 | ***3.*** | ${\color{lightgreen} Breadth \space First \space Search}$ | [Link](https://youtu.be/aeOrcsndHxI) | [Code](https://github.com/VishuKalier2003/Graph-Series/blob/main/video1.md) | [Notes](https://1drv.ms/b/c/a04cbeb414585193/EdeEYHWDk0pAr49cyBBUXK8BI0vWFlGE-G0usP-5ycAm9g?e=Y9boTX) |
 
 
